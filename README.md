@@ -1,2 +1,2 @@
-# QR-Generator
-QR Generator using Java and Swing
+# QR Generator
+QR Generator Software using Java and Swing
